@@ -1,0 +1,11 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "editor.tabSize": 4,
+    "terminal.integrated.defaultProfile.osx": "bash", 
+    
+    
+
+   
+
+}
